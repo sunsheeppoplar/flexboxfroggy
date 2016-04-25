@@ -482,7 +482,7 @@ var levels = [
       'fr': '<p>Aidez cette armée de grenouille à former trois belles colonnes en utilisant une combinaison de <code>flex-direction</code> et <code>flex-wrap</code>.</p>',
       'ru': '<p>Помоги этой армии лягушат выстроиться в три колонки с помощью комбинации <code>flex-direction</code> и <code>flex-wrap</code>.</p>',
       'fa': '<p>به ارتش قورباغه ها کمک کنید تا به صورت منظم در ستون های خود قرار بگیرند با استفاده از خاصیت های <code>flex-direction</code> و <code>flex-wrap</code> این کار را انجام دهید.</p>',
-      'zh-cn': '<p>帮这些青蛙们排成整齐的散列。使用<code>flex-direction</code>和<code>flex-wrap</code>的组合。</p>',
+      'zh-cn': '<p>帮这些青蛙们排成整齐的三列。使用<code>flex-direction</code>和<code>flex-wrap</code>的组合。</p>',
       'zh-tw': '<p>幫這些青蛙們排成整齊的三列。使用<code>flex-direction</code>和<code>flex-wrap</code>的組合。</p>',
       'tr': '<p><code>flex-direction</code> ve <code>flex-wrap</code> kombinasyonunu kullanarak bu kurbağa ordusunun üçlü sıralı düzene girmesine yardımcı olun.</p>',
       'it': '<p>Aiuta questo gruppo di rane a disporsi in tre colonne ordinate usando una combinazione di <code>flex-direction</code> e <code>flex-wrap</code>.</p>',
