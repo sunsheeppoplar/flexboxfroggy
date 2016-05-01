@@ -140,7 +140,7 @@ var docs = {
     'fr': '<p>Spécifie l\'ordre de l\'élément flex.</p><code>&lt;integer&gt;</code>',
     'ru': '<p>Указывает порядок flex-элемента.</p><code>&lt;integer&gt;</code>',
     'fa': '<p>به کمک خاصیت order شما می‌توانید ترتیب چینش Flex itemها را مشخص کنید. مقادیر این خاصیت اعداد می‌باشند و هرچه عدد کوچکتر باشد اولویت آیتم بالاتر خواهد بود..</p><code>&lt;integer&gt;</code>',
-    'zh-cn': '<p>决定flex元素的顺序.</p><code>&lt;integer&gt;</code>',
+    'zh-cn': '<p>决定flex元素的顺序。</p><code>&lt;integer&gt;</code>',
     'zh-tw': '<p>決定flex元素的順序。</p><code>&lt;integer&gt;</code>',
     'tr': '<p>Flex öğenin sırasını belirler.</p><code>&lt;integer&gt;</code>',
     'it': '<p>Specifica l\'ordine degli elementi flex</p><code>&lt;integer&gt;</code>',
