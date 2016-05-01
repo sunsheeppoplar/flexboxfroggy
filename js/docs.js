@@ -83,7 +83,7 @@ var docs = {
     'fr': '<p>Raccourci pour <code>flex-direction</code> et <code>flex-wrap</code>.</p><code>&lt;flex-direction&gt; &lt;flex-wrap&gt;</code>',
     'ru': '<p>Свойство для быстрой записи <code>flex-direction</code> и <code>flex-wrap</code>.</p><code>&lt;flex-direction&gt; &lt;flex-wrap&gt;</code>',
     'fa': '<p>اکنون به کمک flex-flow شما می‌توانید مقادیری که برای <code>flex-direction</code> و <code>flex-wrap</code> در نظر دارید را در یک خاصیت بنویسید.</p>',
-    'zh-cn': '<p><code>flex-direction</code>和<code>flex-wrap</code>的缩写性质.</p><code>&lt;flex-direction&gt; &lt;flex-wrap&gt;</code>',
+    'zh-cn': '<p><code>flex-direction</code>和<code>flex-wrap</code>的缩写性质。</p><code>&lt;flex-direction&gt; &lt;flex-wrap&gt;</code>',
     'zh-tw': '<p><code>flex-direction</code>和<code>flex-wrap</code>的縮寫性質。</p><code>&lt;flex-direction&gt; &lt;flex-wrap&gt;</code>',
     'tr': '<p><code>flex-direction</code> ve <code>flex-wrap</code> için kısa yazım özelliği.</p><code>&lt;flex-direction&gt; &lt;flex-wrap&gt;</code>',
     'it': '<p>Scorciatoia per le proprieta\' <code>flex-direction</code> e <code>flex-wrap</code>.</p><code>&lt;flex-direction&gt; &lt;flex-wrap&gt;</code>',
